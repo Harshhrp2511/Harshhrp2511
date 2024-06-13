@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Pardeshi</h1>
 <h3 align="center">Developer| Student | Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshhrp2511" alt="harshhrp2511" /></a> </p>
-
 - 🌱 I’m currently learning **DSA and React**
 
 - 📫 How to reach me **harshpardeshi2511@gmail.com**
