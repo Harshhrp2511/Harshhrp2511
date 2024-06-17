@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Pardeshi</h1>
 <h3 align="center">Developer| Student | Learner</h3>
 
-- 🌱 I’m currently learning **DSA and Spring**
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **harshpardeshi2511@gmail.com**
 
