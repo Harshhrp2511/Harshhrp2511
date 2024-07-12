@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Pardeshi</h1>
+<h1 align="center" text="bold">Hi 👋, I'm Harsh Pardeshi</h1>
 <h3 align="center">Developer| Student | Learner</h3>
 
 - 🌱 I’m currently learning **DSA**
