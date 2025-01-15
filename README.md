@@ -51,9 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshhrp2511&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshhrp2511&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
